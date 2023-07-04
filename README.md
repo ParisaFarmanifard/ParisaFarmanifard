@@ -2,7 +2,7 @@
 
 Welcome! This is Parisa Farmanifard <br/>This contains an overview of my activities like research works, projects, etc. 
 	
-# Research & Publications: |
+# Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
 |1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning| Accepted |[ICSET2020]| N/A|
