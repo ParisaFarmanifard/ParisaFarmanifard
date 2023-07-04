@@ -15,7 +15,7 @@ CS Ph.D. Student at iPRoBe Lab, <br/>
 Department of Computer Science & Engineering (CSE), <br/>
 Michigan State University (MSU)<br/>
 East Lansing, Michigan, USA <br/>
-[ResearchGate](https://www.researchgate.net/profile/Parisa-Farmanifard) | [Linkedin](https://www.linkedin.com/in/parisaf/) |[Academic CV](https://parisafarmanifard.github.io/) </br>
+[ResearchGate](https://www.researchgate.net/profile/Parisa-Farmanifard) | [Linkedin](https://www.linkedin.com/in/parisaf/) | [Academic CV](https://parisafarmanifard.github.io/) </br>
 Email: parisa.farmanifard@gmailcom<br>
 farmanif@msu.edu
 
