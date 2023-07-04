@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**ParisaFarmanifard/ParisaFarmanifard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, Parisa Farmanifard! <br/>This contains an overview of my activities like research works, projects, etc. 
+	
+# Research & Publications:
+|No.| Description | Published | GitHub Repo | Link to Publication|
+|:---:|:-----------|:-----------:|:-------------:|:--------------------:|
+|1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning| Accepted |[ICSET2020]|
+	
+**\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the competition is live, hence the repo is private for now. Once the contest is over, I will make that repo public.` 
 
-Here are some ideas to get you started:
+# Author: 
+**Parisa Farmanifard** <br/>
+Lecturer, <br/>
+Department of Computer Science & Engineering (CSE), <br/>
+Michigan State University (MSU)<br/>
+East Lansing, Michigan, USA <br/>
+[ResearchGate](https://www.researchgate.net/profile/Parisa-Farmanifard) | [Linkedin](https://www.linkedin.com/in/parisaf/) |[Academic CV](https://parisafarmanifard.github.io/) </br>
+Email: parisa.farmanifard@gmailcom<br>
+farmanif@msu.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
