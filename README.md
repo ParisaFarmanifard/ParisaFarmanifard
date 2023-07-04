@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, Parisa Farmanifard! <br/>This contains an overview of my activities like research works, projects, etc. 
+Welcome! This is Parisa Farmanifard <br/>This contains an overview of my activities like research works, projects, etc. 
 	
 # Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
