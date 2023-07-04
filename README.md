@@ -7,7 +7,7 @@ Welcome! This is Parisa Farmanifard <br/>This contains an overview of my activit
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
 |1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning| Accepted |[ICSET2020]|
 	
-**\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the competition is live, hence the repo is private for now. Once the contest is over, I will make that repo public.` 
+**\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the project is still going on, hence the repo is private for now. Once the project is over, I will make that repo public.` 
 
 # Contact info: 
 **Parisa Farmanifard** <br/>
