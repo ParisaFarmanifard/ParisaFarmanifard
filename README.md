@@ -11,7 +11,7 @@ Welcome! This is Parisa Farmanifard <br/>This contains an overview of my activit
 
 # Contact info: 
 **Parisa Farmanifard** <br/>
-Ph.D. Student at iPRoBe Lab, <br/>
+CS Ph.D. Student at iPRoBe Lab, <br/>
 Department of Computer Science & Engineering (CSE), <br/>
 Michigan State University (MSU)<br/>
 East Lansing, Michigan, USA <br/>
