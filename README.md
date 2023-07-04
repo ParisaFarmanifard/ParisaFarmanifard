@@ -2,10 +2,10 @@
 
 Welcome! This is Parisa Farmanifard <br/>This contains an overview of my activities like research works, projects, etc. 
 	
-# Research & Publications:
+# Research & Publications: |
 |No.| Description | Published | GitHub Repo | Link to Publication|
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
-|1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning| Accepted |[ICSET2020]|
+|1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning| Accepted |[ICSET2020]| N/A|
 	
 **\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the project is still going on, hence the repo is private for now. Once the project is over, I will make that repo public.` 
 
