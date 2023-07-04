@@ -9,9 +9,9 @@ Hello, Parisa Farmanifard! <br/>This contains an overview of my activities like 
 	
 **\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the competition is live, hence the repo is private for now. Once the contest is over, I will make that repo public.` 
 
-# Author: 
+# Contact info: 
 **Parisa Farmanifard** <br/>
-Lecturer, <br/>
+Ph.D. Student at iPRoBe Lab, <br/>
 Department of Computer Science & Engineering (CSE), <br/>
 Michigan State University (MSU)<br/>
 East Lansing, Michigan, USA <br/>
