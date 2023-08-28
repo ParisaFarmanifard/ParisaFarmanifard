@@ -9,6 +9,8 @@ Welcome! <br/>This contains an overview of my activities like research works, pr
 	
 **\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the project is still going on, hence the repo is private for now. Once the project is over, I will make that repo public.` 
 
+![Parisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisaFarmanifard&show_icons=true)
+
 # Contact info: 
 **Parisa Farmanifard** <br/>
 CS Ph.D. Student at iPRoBe Lab <br/>
@@ -18,6 +20,7 @@ East Lansing, Michigan, USA <br/>
 [ResearchGate](https://www.researchgate.net/profile/Parisa-Farmanifard) | [Linkedin](https://www.linkedin.com/in/parisaf/) | [Academic CV](https://parisafarmanifard.github.io/) </br>
 Email: parisa.farmanifard@gmail.com <br>
 farmanif@msu.edu
+
 
 
 
