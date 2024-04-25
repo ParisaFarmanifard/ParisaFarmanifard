@@ -5,7 +5,8 @@ Welcome! <br/>This contains an overview of my activities like research works, pr
 # Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
-|1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning | Accepted |[ICSET2020]| N/A|
+|1. |Improvement of Medicine via Artificial Intelligence and Applying Machine Learning | Accepted |[ICSET2020]|
+|2. |Iris-SAM: Iris Segmentation Using a Foundation Model | Accepted |[ICPRAI 2024]|
 	
 **\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the project is still going on, hence the repo is private for now. Once the project is over, I will make that repo public.` 
 
